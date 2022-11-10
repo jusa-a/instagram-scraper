@@ -1,0 +1,7 @@
+.DS_Store
+env/
+*followers.txt
+*following.txt
+
+requirements.txt
+notes.md
